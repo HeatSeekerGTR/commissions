@@ -5,7 +5,7 @@ body{
 .open-button{
     -webkit-transition: all 0.2s;
     width: 200px;
-    background: #eb9046;
+    background: linear-gradient(to bottom, rgba(255,189,74,1) 0%, rgba(248,80,50,1) 100%);
     line-height: 50px;
     text-align: center;
     font-weight: bold;
@@ -19,14 +19,14 @@ body{
 }
 
 .open-button:hover{
-    background: #333;
-    color: #e3e3e3
+    background: rgba(248,80,50,1);
+    color: white;
 }
 
 .open-button1{
     -webkit-transition: all 0.2s;
     width: 200px;
-    background: #eb9046;
+    background: linear-gradient(to bottom, rgba(255,189,74,1) 0%, rgba(248,80,50,1) 100%);
     line-height: 50px;
     text-align: center;
     font-weight: bold;
@@ -40,14 +40,14 @@ body{
 }
 
 .open-button1:hover{
-    background: #333;
-    color: #e3e3e3
+    background: rgba(248,80,50,1);
+    color: white;
 }
 
 .open-button2{
     -webkit-transition: all 0.2s;
     width: 200px;
-    background: #eb9046;
+    background: linear-gradient(to bottom, rgba(255,189,74,1) 0%, rgba(248,80,50,1) 100%);
     line-height: 50px;
     text-align: center;
     font-weight: bold;
@@ -61,8 +61,8 @@ body{
 }
 
 .open-button2:hover{
-    background: #333;
-    color: #e3e3e3
+    background: rgba(248,80,50,1);
+    color: white;
 }
 
 ol {
