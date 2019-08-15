@@ -152,6 +152,11 @@ img.stuffing3 {
     height: auto;
 }
 
+img.stuffing4 {
+    max-width: 50%;
+    height: auto;
+}
+
 img.edit1 {
     max-width: 100%;
     height: auto;
